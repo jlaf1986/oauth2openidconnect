@@ -1,0 +1,10 @@
+C:\DEVELOPMENT\Local\Projects\Alhambra\OAuth2OpenIdConnect\bin\Debug\OAuth2OpenIdConnect.dll
+C:\DEVELOPMENT\Local\Projects\Alhambra\OAuth2OpenIdConnect\bin\Debug\OAuth2OpenIdConnect.pdb
+C:\DEVELOPMENT\Local\Projects\Alhambra\OAuth2OpenIdConnect\bin\Debug\Microsoft.IdentityModel.Tokens.JWT.dll
+C:\DEVELOPMENT\Local\Projects\Alhambra\OAuth2OpenIdConnect\bin\Debug\Newtonsoft.Json.dll
+C:\DEVELOPMENT\Local\Projects\Alhambra\OAuth2OpenIdConnect\bin\Debug\System.Net.Http.Formatting.dll
+C:\DEVELOPMENT\Local\Projects\Alhambra\OAuth2OpenIdConnect\bin\Debug\Newtonsoft.Json.xml
+C:\DEVELOPMENT\Local\Projects\Alhambra\OAuth2OpenIdConnect\bin\Debug\System.Net.Http.Formatting.xml
+C:\DEVELOPMENT\Local\Projects\Alhambra\OAuth2OpenIdConnect\obj\Debug\OAuth2OpenIdConnect.csprojResolveAssemblyReference.cache
+C:\DEVELOPMENT\Local\Projects\Alhambra\OAuth2OpenIdConnect\obj\Debug\OAuth2OpenIdConnect.dll
+C:\DEVELOPMENT\Local\Projects\Alhambra\OAuth2OpenIdConnect\obj\Debug\OAuth2OpenIdConnect.pdb
